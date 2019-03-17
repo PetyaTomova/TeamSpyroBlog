@@ -1,0 +1,2 @@
+# TeamSpyroBlog
+SoftUni team project
